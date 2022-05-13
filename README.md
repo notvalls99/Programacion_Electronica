@@ -3,5 +3,5 @@ Subiremos en este repositorio los códigos que planteamos para el termómetro qu
 
 Este repositorio contará con una serie de pequeños códigos que hacen funciones simples para el tratamiento de nuestros datos. Los dejaremos aquí para poder comprobar su corrección y por si pueden llegar a ser de utilidad para futuros grupos, si el profesor de la asignatura considera en algún momento que estos códigos pueden llegar a ser de interés para el desarrollo de futuras prácticas es totalmente libre de utilizarlos.
 
-
+La primera sesión en la que estuvimos probando códigos con el Arduino intentamos 
 Francesc Valls Vicent.
