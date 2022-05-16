@@ -3,6 +3,10 @@ Subiremos en este repositorio los códigos que planteamos para el termómetro qu
 
 La primera sesión en la que estuvimos probando códigos con el Arduino empezamos a familiarizarnos con el programa, realizando los dos siguientes códigos: Binary_Lecture_3_scales.ino y Max_Min_Med_T.ino. Intentamos también un programa que nos sacara una figura directamente como resultado, en base a un vector de valores de temperatura media, pero no pudimos hacerlo la primera clase, así que lo intentaremos en la segunda.
 
+En la segunda sesión planteamos otros códigos para continuar con nuestra breve inmersión en el arduino y su programación, se nos ocurrieron dos programas, uno que tiene que ver con los resultados obtenidos con el sistema de medida que hemos realizado y otro que en el que utilizamos una componente de la caja de montaje que no hemos utilizado en todo el periodo de laboratorio, como es el buzzer.
+El primer códgo, que es el llamado Cancion.ino. Este código lleva adjunto el file 'sept_verano.rar' que habrá que descomprimir y sacar el archivo tipo '.wav' que es una canción del grupo Airbag, si todo funciona como toca se debería escuchar la canción cuando la entrada de temperatura es menor de 15 grados centígrados.
+Por último planteamos un código para trabajar con el 'buzzer' en este caso, no trabajaremos con la temperatura que obtenemos del sistema, sino que nos iremos a probar el 'buzzer', para ello, lo que hicimos es que de un output del arduino saldrá hacia el 'buzzer' una canción que hemos escrito en el código, en este caso la famosa canción de Star Wars, de forma que el 'buzzer' la reproducirá.
+ 
 Este repositorio contará con una serie de pequeños códigos que hacen funciones simples para el tratamiento de nuestros datos. Los dejaremos aquí para poder comprobar su corrección y por si pueden llegar a ser de utilidad para futuros grupos, si el profesor de la asignatura considera en algún momento que estos códigos pueden llegar a ser de interés para el desarrollo de futuras prácticas es totalmente libre de utilizarlos.
 
 Francesc Valls Vicent.
